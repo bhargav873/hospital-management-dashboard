@@ -48,7 +48,7 @@ The project utilizes multiple relational healthcare datasets, including:
 - Built interactive dashboards and analytical reports.
 - Generated operational insights through data visualization.
 
-## Dashboard Preview
+## 📈 Dashboard Preview
 
 <img width="900" height="577" alt="Appointment   Patient visit Analysis" src="https://github.com/user-attachments/assets/a2d4701f-b932-4751-a3aa-000fa522a1f6" />
 
