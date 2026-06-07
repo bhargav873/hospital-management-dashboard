@@ -51,7 +51,7 @@ The project utilizes multiple relational healthcare datasets, including:
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/healthcare-operations-overview.png)
+<img width="1082" height="577" alt="Appointment   Patient visit Analysis" src="https://github.com/user-attachments/assets/a2d4701f-b932-4751-a3aa-000fa522a1f6" />
 
 
 
