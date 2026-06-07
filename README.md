@@ -1,5 +1,7 @@
 # hospital-management-dashboard(Interactive Dashboard Creation using ms powerBI)
 
+## 📌 Project Objective
+
 Interactive Power BI dashboard analyzing hospital operations, patient activity, billing performance, and treatment insights through KPI-driven visualizations.
 
 ## Objective
