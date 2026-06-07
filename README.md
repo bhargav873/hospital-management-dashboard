@@ -1,14 +1,11 @@
 # hospital-management-dashboard(Interactive Dashboard Creation using ms powerBI)
 
-## 📌 Project Objective
+## 🎯 Project Objective
 
 Interactive Power BI dashboard analyzing hospital operations, patient activity, billing performance, and treatment insights through KPI-driven visualizations.
 
-## Objective
 
-To analyze healthcare operational data and generate actionable business insights using Power BI dashboards and analytical reporting techniques.
-
-## Raw Dataseta
+## 📂 Raw Datasets
 
 The project utilizes multiple relational healthcare datasets, including:
 
@@ -18,7 +15,7 @@ The project utilizes multiple relational healthcare datasets, including:
 - Billing Data
 - Treatments Data
 
-## Questions(KPIs)
+## 🔍 Questions(KPIs)
 
 - Which department records the highest patient admissions?
 - What is the average patient stay duration across departments?
@@ -37,14 +34,14 @@ The project utilizes multiple relational healthcare datasets, including:
 - Which operational areas require performance improvement?
 
 
-## Tools Used
+## 🧰 Tools Used
 
 - Power BI
 - Power Query
 - DAX
 - Excel
 
-## Process
+## 🔄 Process
 
 - Imported and transformed relational healthcare datasets using Power Query.
 - Created KPI measures and calculated metrics using DAX.
@@ -69,7 +66,7 @@ The project utilizes multiple relational healthcare datasets, including:
 
 
 
-## Key Insights
+## 🧠 Key Insights
 
 - Certain departments recorded consistently higher patient inflow.
 - Revenue contribution was concentrated among specific treatment categories.
