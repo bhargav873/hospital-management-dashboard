@@ -51,19 +51,19 @@ The project utilizes multiple relational healthcare datasets, including:
 
 ## Dashboard Preview
 
-<img width="800" height="577" alt="Appointment   Patient visit Analysis" src="https://github.com/user-attachments/assets/a2d4701f-b932-4751-a3aa-000fa522a1f6" />
+<img width="900" height="577" alt="Appointment   Patient visit Analysis" src="https://github.com/user-attachments/assets/a2d4701f-b932-4751-a3aa-000fa522a1f6" />
 
 
-<img width="800" height="592" alt="Revenue   Billing Insights" src="https://github.com/user-attachments/assets/75a80e0c-2210-4c2d-830b-d901e1398eed" />
+<img width="900" height="592" alt="Revenue   Billing Insights" src="https://github.com/user-attachments/assets/75a80e0c-2210-4c2d-830b-d901e1398eed" />
 
 
-<img width="800" height="576" alt="Doctor Operations Overview" src="https://github.com/user-attachments/assets/c0760601-a0e3-48b1-96b0-77d024adfa46" />
+<img width="900" height="576" alt="Doctor Operations Overview" src="https://github.com/user-attachments/assets/c0760601-a0e3-48b1-96b0-77d024adfa46" />
 
 
-<img width="800" height="580" alt="Patient Activity Dashboard" src="https://github.com/user-attachments/assets/a6524c5a-41c3-4c67-b92a-b6af2aef62fd" />
+<img width="900" height="580" alt="Patient Activity Dashboard" src="https://github.com/user-attachments/assets/a6524c5a-41c3-4c67-b92a-b6af2aef62fd" />
 
 
-<img width="800" height="577" alt="Treatment   Cost Analysis" src="https://github.com/user-attachments/assets/714c929f-1337-49b4-9538-3f7a60bbbc2e" />
+<img width="900" height="577" alt="Treatment   Cost Analysis" src="https://github.com/user-attachments/assets/714c929f-1337-49b4-9538-3f7a60bbbc2e" />
 
 
 
