@@ -72,3 +72,7 @@ The project utilizes multiple relational healthcare datasets, including:
 - Revenue contribution was concentrated among specific treatment categories.
 - Appointment trends highlighted peak operational periods.
 
+## 🚀 How to View
+1. Clone this repository to your local machine.
+2. Ensure you have **Power BI Desktop** installed.
+3. Open the `hospital management dashboard.pbix` file to interact with the dashboards.
